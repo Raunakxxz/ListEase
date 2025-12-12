@@ -8,7 +8,6 @@ export default {
     './src/app/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-<<<<<<< HEAD
     container: {
       center: true,
       padding: "2rem",
@@ -20,12 +19,6 @@ export default {
       fontFamily: {
         body: ['"PT Sans"', 'sans-serif'],
         headline: ['"PT Sans"', 'sans-serif'],
-=======
-    extend: {
-      fontFamily: {
-        body: ['Inter', 'sans-serif'],
-        headline: ['Inter', 'sans-serif'],
->>>>>>> ff639c6 (copyrights by raunakxxz)
         code: ['monospace'],
       },
       colors: {
